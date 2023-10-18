@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <h6> Hi there 👋 <h6>
+    <h1> Hi there 👋 <h1>
     <img  src="https://badge.mediaplus.ma/greenbinary/mabdelou" alt="mabdelou's 42 stats" />
 </div>
 
