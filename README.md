@@ -1,4 +1,9 @@
-### Hi there 👋
+
+
+<div align="center">
+    <h6> Hi there 👋 <h6>
+    <img  src="https://badge.mediaplus.ma/greenbinary/mabdelou" alt="mabdelou's 42 stats" />
+</div>
 
 <!--
 **mabdelou/mabdelou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
