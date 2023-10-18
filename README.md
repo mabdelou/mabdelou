@@ -1,8 +1,9 @@
 
 
 <div align="center">
-    <h1> Hi there 👋 <h1>
+    <h1> Hi there 👋 </h1>
     <img  src="https://badge.mediaplus.ma/greenbinary/mabdelou" alt="mabdelou's 42 stats" />
+    <h5>I'm currently working to be a better version of myself than yesterday</h5>
 </div>
 
 <!--
